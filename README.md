@@ -24,12 +24,12 @@
 <img src="./img/skill.jpg">
 
 #### 4.HW의 모습
+{: refdef: style="text-align: center;"}
+<img src="./img/HW.jpg" width="250px" height="380px">
+{: refdef}
 
-<img src="./img/HW.jpg" width="200px" height="380px">
 
-
-
-<img src="./img/HW2.jpg" width="200px" height="380px">
+<img src="./img/HW2.jpg" width="250px" height="380px">
 
 
 
