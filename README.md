@@ -10,7 +10,7 @@
 
 10월 20일 부터 21일 까지 동탄 이음터 도서관에서 설문조사를 실시한 결과 응답자 106명 중 참여자 66%가 빈자리 임에도 사용중이라고 떠서 도서관 열람실을 사용하는데 어려움이 있다고 답했습니다.
 
-<img src="Logo.jpg">
+<img src="./img/Logo.jpg">
 
 #### 3.녹차빙수 플랫폼이 가지고 있는 기능
 
@@ -21,13 +21,15 @@
 
 
 
-<img src="skill.jpg">
+<img src="./img/skill.jpg">
 
 #### 4.HW의 모습
 
-<img  src="HW.jpg" >
+<img aligh:"left" src="./img/HW.jpg" >
 
-<img  src="HW2.jpg" >
+
+
+<img  src="./img/HW2.jpg" >
 
 
 
