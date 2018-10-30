@@ -25,11 +25,11 @@
 
 #### 4.HW의 모습
 
-<img  src="./img/HW.jpg">
+<img  src="./img/HW.jpg" width:"200px" height:"380px">
 
 
 
-<img  src="./img/HW2.jpg" >
+<img  src="./img/HW2.jpg" width:"200px" height:"380px">
 
 
 
