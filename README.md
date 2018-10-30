@@ -23,7 +23,6 @@
 
 <img src="./img/skill.jpg">
 
-<<<<<<< HEAD
 #### 4.HW 구성
 
 1. Nodemcu 보드를 사용하여 WiFi에 연결, 파이어 베이스 데이터베이스에 연결
@@ -37,18 +36,10 @@
 1. 도서관 열람실 좌석 현황 확인 가능
 2. 로그인 기능
 3. 도서관 열람실 자리 선택, 예약 기능
+4. firebase로 데이터베이스 구현
+5. node.js, vue.js로 웹 사이트 제작
 
 #### 6.사용시장 선정
-=======
-#### 4.HW의 모습
-{: refdef: style="text-align: center;"}
-<img src="./img/HW.jpg" width="250px" height="380px">
-{: refdef}
-
-
-<img src="./img/HW2.jpg" width="250px" height="380px">
->>>>>>> abbaad2b67b662e2b4ea533fb1d6b37277c6c4bd
-
 TAM(총 유효시장) -> 전국의 도서관 열람실
 
 SAM(유효시장) -> 수도권 지역
