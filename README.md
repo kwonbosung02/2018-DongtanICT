@@ -64,7 +64,7 @@ SOM(수익시장) -> 시립 도서관, 대학 도서관
 
 #### 10.마케팅 방법
 
-<img src="./img/marketing.jpg">
+<img src="./img/Marketing.jpg">
 
 
 
