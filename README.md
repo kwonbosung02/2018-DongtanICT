@@ -25,7 +25,7 @@
 
 #### 4.HW의 모습
 
-<img aligh:"left" src="./img/HW.jpg" >
+<img  src="./img/HW.jpg" aligh:"left">
 
 
 
